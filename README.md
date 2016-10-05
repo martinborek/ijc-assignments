@@ -1,2 +1,2 @@
 # ijc-assignments
-Assignments to The C Programming Language course
+Assignments for The C Programming Language course
