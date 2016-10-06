@@ -1,5 +1,5 @@
 # ijc-assignments
-Assignments for the course "The C Programming Language", taken at Brno University of Technology course in 2012.
+Assignments for the course "The C Programming Language", taken at Brno University of Technology in 2012.
 
 Author: Martin Borek
 
